@@ -1,0 +1,11 @@
+.accordion {
+  width: clamp(28rem, 80vw, 64rem);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.accordion__list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.8rem;
+}
